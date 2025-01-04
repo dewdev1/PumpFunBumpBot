@@ -1,6 +1,6 @@
 
            
-# pump-fun-bump-bot                    
+# Pump Fun Bump Bot / Volume Bot               
                 
 This bot buy and sell automatically on pump.fun and raydium.    
         
