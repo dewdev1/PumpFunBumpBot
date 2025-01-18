@@ -19,7 +19,7 @@ git clone https://github.com/dewdev1/PumpFunBumpBot.git
 ```                           
                           
 Else, you can download the repository in a zip here : https://github.com/dewdev1/PumpFunBumpBot/archive/refs/heads/master.zip   
-      
+       
 ## Environment setup 
 
 you need to install nodejs :
