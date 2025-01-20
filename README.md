@@ -22,7 +22,7 @@ Else, you can download the repository in a zip here : https://github.com/dewdev1
        
 ## Environment setup 
 
-you need to install nodejs :
+you need to install nodejs : 
     
 For Windows : https://nodejs.org/dist/v22.2.0/node-v22.2.0-x64.msi           
 
